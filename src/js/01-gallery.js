@@ -1,7 +1,10 @@
+import SimpleLightbox from 'simplelightbox';
+// const SimpleLightbox = require('simplelightbox');
+
+import 'simplelightbox/dist/simple-lightbox.min.css';
 // Add imports above this line
-import { galleryItems } from './gallery-items';
-// import SimpleLightbox from 'simplelightbox';
-// import 'simplelightbox/dist/simple-lightbox.min.css';
+import { galleryItems } from './gallery-items.js';
+
 // Change code below this line
 
 const list = document.querySelector('.gallery');
