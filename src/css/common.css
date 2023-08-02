@@ -18,7 +18,7 @@ img {
 }
 p a,
 li a {
-  color: rgb(255, 218, 172);
+  color:rgb(255, 127, 80); 
   font-size: 30px;
   text-decoration: none;
   font-family: serif;
@@ -32,5 +32,5 @@ p a:hover,
 li a:hover,
 p a:focus,
 li a:focus {
-  color: coral;
+  color: rgb(255, 218, 172);
 }
